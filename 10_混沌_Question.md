@@ -12,3 +12,4 @@
 8. Django优点
 9. Django同步框架，异步情况怎么处理
 10. Python多线程
+11. 谈谈对restful的理解
